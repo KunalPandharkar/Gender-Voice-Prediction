@@ -31,7 +31,7 @@ This project builds a **machine learning model** to classify **gender (Male/Fema
 ## 📌 **Installation & Usage**
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/KunalPandharkar/Voide-Gender-Prediction.git
+git clone https://github.com/KunalPandharkar/Voice-Gender-Prediction.git
 cd voice-gender-classification
 ```
 ### 2️⃣ **Install Dependencies**
